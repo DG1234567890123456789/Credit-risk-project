@@ -61,4 +61,4 @@ For each model, the preprocessed dataset is split into training and testing sets
 
 In this project, we have successfully built a credit score model using a dataset of credit-related information. By preprocessing the data, handling missing values, and applying one-hot encoding, we ensure that the dataset is ready for model training. By exploring various machine learning models, we aim to predict creditworthiness accurately and help make informed credit-related decisions.
 
-Feel free to modify and adapt this README file according to your project requirements, providing more details about the dataset, model evaluation, or any additional steps involved in your credit score project.
+
